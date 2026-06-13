@@ -32,8 +32,8 @@ A Python-based voice-controlled assistant that listens to user commands and perf
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/voice-ai-assistant.git
-cd voice-ai-assistant
+git clone https://github.com/Tejan-Das/Voice-AI-Assistant.git
+cd Voice-AI-Assistant
 ```
 
 Install dependencies:
