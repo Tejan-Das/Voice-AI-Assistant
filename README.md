@@ -26,7 +26,8 @@ A Python-based voice-controlled assistant that listens to user commands and perf
 * Requests
 * PyWhatKit
 * PyAutoGUI
-
+## For this project I have used python version 3.11 because some modules in this project support 3.11 version.
+## So you can create a virtual environment with version 3.11 and then run the following commands.
 ## Installation
 
 Clone the repository:
@@ -51,6 +52,8 @@ python myAssistant.py
 ## Example Voice Commands
 
 * "Hello"
+* "Who created you,ok thanks,how are you,what can you do,ok bye"
+* "Tell me date/time"
 * "What is Artificial Intelligence"
 * "Who is Elon Musk"
 * "Weather in Karachi"
@@ -64,7 +67,7 @@ python myAssistant.py
 * "Mute"
 * "Full Screen"
 * "Tell me a joke"
-* "What is the time"
+* "Where is the karachi"
 
 ## Future Improvements
 
